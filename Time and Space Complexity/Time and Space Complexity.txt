@@ -1,0 +1,5 @@
+1)O(N + M) time, O(1) space
+2)O(N*N)
+3)O(nLogn)
+4)O(log N)
+5)O(logkn)

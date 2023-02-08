@@ -1,0 +1,5 @@
+1)o(root(n))
+2)O(1) in best case and O(n) in worst case.
+3)Time complexity = O(1) in best case and O(max(a, b)) worst case.
+4)O(logn)
+5)O(n(square)logn)
